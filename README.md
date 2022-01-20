@@ -14,4 +14,5 @@ Based on all this past information, we want to build a model which will predict 
 You can refer to this [link](https://medium.com/data-science-on-customer-churn-data/customer-churn-data-analysis-using-logistic-regression-3861e2d4d1f3) if you want to learn more about the theoretical concept of the mode which we built.
 
 
+Here’s what the data frame churn_data looks like:
 ![image](https://user-images.githubusercontent.com/92679689/150282605-ceebbf58-dfe3-4aa4-9ff7-f8412ad62d21.png)
