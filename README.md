@@ -11,4 +11,4 @@ We have a telecom firm which has collected data of all its customers. The main t
 
 Based on all this past information, we want to build a model which will predict whether a particular customer will churn or not, i.e. whether they will switch to a different service provider or not. So the variable of interest, i.e. the target variable here is ‘Churn’ which will tell us whether or not a particular customer has churned. It is a binary variable - 1 means that the customer has churned and 0 means the customer has not churned.
 
-You can refer to this [link]('https://medium.com/data-science-on-customer-churn-data/customer-churn-data-analysis-using-logistic-regression-3861e2d4d1f3') if you want to learn more about the theoretical concept of the mode which we built.
+You can refer to this [link](https://medium.com/data-science-on-customer-churn-data/customer-churn-data-analysis-using-logistic-regression-3861e2d4d1f3) if you want to learn more about the theoretical concept of the mode which we built.
