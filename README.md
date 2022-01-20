@@ -15,4 +15,5 @@ You can refer to this [link](https://medium.com/data-science-on-customer-churn-d
 
 
 Here’s what the data frame churn_data looks like:
+
 ![image](https://user-images.githubusercontent.com/92679689/150282605-ceebbf58-dfe3-4aa4-9ff7-f8412ad62d21.png)
